@@ -7,12 +7,12 @@ export default function Brands() {
     {
       id: 1,
       title: "Merito Academy",
-      image: "/src/assets/brand1.webp",
+      image: "/assets/brand1.webp",
     },
     {
       id: 2,
       title: "Merito.in",
-      image: "/src/assets/brand2.webp",
+      image: "/assets/brand2.webp",
     }
   ]
   return (

@@ -6,24 +6,24 @@ export default function Initiatives() {
     {
       id: 1,
       title: "Helppad",
-      image: "/src/assets/i1.webp",
+      image: "/assets/i1.webp",
     },
     {
       id: 2,
       title: "#LeadTheChange",
-      image: "/src/assets/i2.webp",
+      image: "/assets/i2.webp",
     },
   ];
   const data2 = [
     {
       id: 3,
       title: "#WeFightCC",
-      image: "/src/assets/i3.webp",
+      image: "/assets/i3.webp",
     },
     {
       id: 4,
       title: "Enlight",
-      image: "/src/assets/i4.webp",
+      image: "/assets/i4.webp",
     },
   ];
   return (

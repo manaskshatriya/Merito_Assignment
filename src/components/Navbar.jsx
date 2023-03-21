@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
-import { FiMenu } from 'react-icons/fi'; // import hamburger icon from react-icons
+import { FiMenu } from 'react-icons/fi';
+
+
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false); // track state of dropdown menu
@@ -7,7 +9,7 @@ export default function Navbar() {
   return (
     <nav className='flex justify-between items-center mb-2 px-4 md:px-20 border shadow-sm shadow-[#FB9D0C]'>
       <div>
-        <img className='h-[14vh]' src='/src/assets/career-corner-logo.jpg' alt='' />
+        <img className='h-[14vh]' src='/assets/career-corner-logo.jpg' alt='' />
       </div>
 
       {/* hamburger menu for tablet and smaller screens */}

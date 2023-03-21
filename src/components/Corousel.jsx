@@ -14,28 +14,28 @@ export default function Corousel() {
 		<div class="relative">
 			<div class="slides-container h-[50vh] flex snap-x snap-mandatory overflow-hidden overflow-x-auto space-x-2 rounded scroll-smooth before:w-[45vw] before:shrink-0 after:w-[45vw] after:shrink-0 md:before:w-0 md:after:w-0">
 				<div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
-					<img class="w-full h-full object-cover" src="/src/assets/c1.webp" alt="mountain_image"/>
+					<img class="w-full h-full object-cover" src="/assets/c1.webp" alt="mountain_image"/>
 				</div>
 				<div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
-					<img class="w-full h-full object-cover" src="/src/assets/c2.webp" alt="mountain_image"/>
+					<img class="w-full h-full object-cover" src="/assets/c2.webp" alt="mountain_image"/>
 				</div>
 				<div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
-					<img class="w-full h-full object-cover" src="/src/assets/c3.webp" alt="mountain_image"/>
+					<img class="w-full h-full object-cover" src="/assets/c3.webp" alt="mountain_image"/>
 				</div>
 				<div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
-					<img class="w-full h-full object-cover" src="/src/assets/c4.jpg" alt="mountain_image"/>
+					<img class="w-full h-full object-cover" src="/assets/c4.jpg" alt="mountain_image"/>
 				</div>
 				<div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
-					<img class="w-full h-full object-cover" src="/src/assets/c1.webp" alt="mountain_image"/>
+					<img class="w-full h-full object-cover" src="/assets/c1.webp" alt="mountain_image"/>
 				</div>
 				<div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
-					<img class="w-full h-full object-cover" src="/src/assets/c2.webp" alt="mountain_image"/>
+					<img class="w-full h-full object-cover" src="/assets/c2.webp" alt="mountain_image"/>
 				</div>
 				<div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
-					<img class="w-full h-full object-cover" src="/src/assets/c3.webp" alt="mountain_image"/>
+					<img class="w-full h-full object-cover" src="/assets/c3.webp" alt="mountain_image"/>
 				</div>
 				<div class="slide aspect-square h-full flex-shrink-0 snap-center rounded overflow-hidden">
-					<img class="w-full h-full object-cover" src="/src/assets/c4.jpg" alt="mountain_image"/>
+					<img class="w-full h-full object-cover" src="/assets/c4.jpg" alt="mountain_image"/>
 				</div>
 
 			</div>
